@@ -1,0 +1,13 @@
+F:\SanLingMC\bin\Debug\SanLingMC.exe
+F:\SanLingMC\bin\Debug\SanLingMC.pdb
+F:\SanLingMC\bin\Debug\Common.dll
+F:\SanLingMC\bin\Debug\SanLing.dll
+F:\SanLingMC\bin\Debug\Common.pdb
+F:\SanLingMC\bin\Debug\SanLing.pdb
+F:\SanLingMC\obj\x86\Debug\SanLingClient.csprojResolveAssemblyReference.cache
+F:\SanLingMC\obj\x86\Debug\SanLingMC.Properties.Resources.resources
+F:\SanLingMC\obj\x86\Debug\SanLingMC.SanLingClient.resources
+F:\SanLingMC\obj\x86\Debug\SanLingMC.TestForm.resources
+F:\SanLingMC\obj\x86\Debug\SanLingClient.csproj.GenerateResource.Cache
+F:\SanLingMC\obj\x86\Debug\SanLingMC.exe
+F:\SanLingMC\obj\x86\Debug\SanLingMC.pdb

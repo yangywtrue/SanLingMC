@@ -1,0 +1,7 @@
+F:\SanLingMC\Server\bin\Debug\Server.dll
+F:\SanLingMC\Server\bin\Debug\Server.pdb
+F:\SanLingMC\Server\obj\Debug\Server.dll
+F:\SanLingMC\Server\obj\Debug\Server.pdb
+F:\SanLingMC\Server\bin\Debug\Common.dll
+F:\SanLingMC\Server\bin\Debug\Common.pdb
+F:\SanLingMC\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

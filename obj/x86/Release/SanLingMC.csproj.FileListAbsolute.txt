@@ -1,0 +1,10 @@
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\bin\Release\SanLingMC.exe
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\bin\Release\SanLingMC.pdb
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.Properties.Resources.resources
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.TestForm.resources
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.csproj.GenerateResource.Cache
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.exe.licenses
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.exe
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.pdb
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.RGAutoMain.resources
+D:\NetWorkSpace\大工\MonitoringSystem\SanLingMC\obj\x86\Release\SanLingMC.RgItem.resources

@@ -1,0 +1,7 @@
+F:\SVN\WNC\Tools\SanLing\bin\Debug\SanLing.dll
+F:\SVN\WNC\Tools\SanLing\bin\Debug\SanLing.pdb
+F:\SVN\WNC\Tools\SanLing\obj\Debug\SanLing.dll
+F:\SVN\WNC\Tools\SanLing\obj\Debug\SanLing.pdb
+F:\SVN\WNC\Tools\SanLing\bin\Debug\Common.dll
+F:\SVN\WNC\Tools\SanLing\bin\Debug\Common.pdb
+F:\SVN\WNC\Tools\SanLing\obj\Debug\SanLing.csprojResolveAssemblyReference.cache

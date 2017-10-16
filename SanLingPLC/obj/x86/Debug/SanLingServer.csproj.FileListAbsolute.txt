@@ -1,0 +1,12 @@
+F:\SanLingMC\SanLingPLC\bin\Debug\SanLingPLC.exe
+F:\SanLingMC\SanLingPLC\bin\Debug\SanLingPLC.pdb
+F:\SanLingMC\SanLingPLC\bin\Debug\Common.dll
+F:\SanLingMC\SanLingPLC\bin\Debug\Server.dll
+F:\SanLingMC\SanLingPLC\bin\Debug\Common.pdb
+F:\SanLingMC\SanLingPLC\bin\Debug\Server.pdb
+F:\SanLingMC\SanLingPLC\obj\x86\Debug\SanLingServer.csprojResolveAssemblyReference.cache
+F:\SanLingMC\SanLingPLC\obj\x86\Debug\SanLingPLC.Server.resources
+F:\SanLingMC\SanLingPLC\obj\x86\Debug\SanLingPLC.Properties.Resources.resources
+F:\SanLingMC\SanLingPLC\obj\x86\Debug\SanLingServer.csproj.GenerateResource.Cache
+F:\SanLingMC\SanLingPLC\obj\x86\Debug\SanLingPLC.exe
+F:\SanLingMC\SanLingPLC\obj\x86\Debug\SanLingPLC.pdb
